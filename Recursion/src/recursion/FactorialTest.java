@@ -1,5 +1,13 @@
 package recursion;
 
+/**
+ * This test class test the methods from the Factorial class without using unit 
+ * testing packages.
+ * 
+ * author: Phu Ha
+ * date: 03/03/2024
+ */
+
 public class FactorialTest {
 
 	public static void main(String[] args) {

@@ -1,5 +1,14 @@
 package recursion;
 
+/**
+ * This program provide 2 static methods that compute the factorial of a given number
+ * using recursion. The first method uses recursion starting from n and approach 0. 
+ * The second method method also uses recursion but start from 0 and work towards n.
+ * 
+ * author: Phu Ha
+ * date: 03/03/2024
+ */
+
 public class Factorial {
 	// factorial recursive method 1
 	// starts from n, decrement n at each step

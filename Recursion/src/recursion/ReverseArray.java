@@ -1,5 +1,13 @@
 package recursion;
 
+/**
+ * This class provides a static method to compute the reverse of a given array
+ * using recursion.
+ * 
+ * author: Phu Ha
+ * date: 03/03/2024
+ */
+
 public class ReverseArray {
 	
 	// method to reverse an array

@@ -1,5 +1,13 @@
 package recursion;
 
+/**
+ * This is a test class that tests methods from ReverseArray class without 
+ * using a unit testing package.
+ * 
+ * author: Phu Ha
+ * date: 03/03/2024
+ */
+
 import java.util.Arrays;
 
 public class ReverseArrayTest {
